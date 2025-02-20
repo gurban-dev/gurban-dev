@@ -2,8 +2,9 @@
 
 **I am pursuing an entry-level software developer position.** 🚀
 
-My professional experience has been in collaborating and becoming proficient in the most efficient<br>
-technologies while being part of the UPS web development team for two and half years.
+My professional experience has been in collaborating and becoming proficient<br>
+in the most efficient technologies while being part of the UPS web development<br>
+team for two and half years.
 
 Please consider viewing my <a href='https://www.linkedin.com/in/dennis-gurban/'>Curriculum Vitae</a> and <a href='https://www.linkedin.com/in/dennis-gurban/'>LinkedIn</a>.
 
