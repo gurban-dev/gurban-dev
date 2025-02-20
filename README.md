@@ -2,11 +2,13 @@
 
 **I am pursuing an entry-level software developer position.** 🚀
 
-My professional experience has been in collaborating and becoming proficient in the most efficient technologies while being part of the UPS web development team for two and half years.
+My professional experience has been in collaborating and becoming proficient in the most efficient
+technologies while being part of the UPS web development team for two and half years.
 
 Please consider viewing my <a href='https://www.linkedin.com/in/dennis-gurban/'>Curriculum Vitae</a> and <a href='https://www.linkedin.com/in/dennis-gurban/'>LinkedIn</a>.
 
-📫 How to reach me: dennisgurban44@gmail.com
+📫 I will be happy to answer your inquiries at the email address that follows:
+   dennisgurban44@gmail.com
 <!--
 **gurbanoglu/gurbanoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
