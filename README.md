@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hello, my name is Dennis. 👋
 
-**Pursuing an entry-level software developer position.** 🚀
+**I am pursuing an entry-level software developer position.** 🚀
 
-Please consider viewing my curriculum vitae and <a href='https://www.linkedin.com/in/dennis-gurban/'>LinkedIn</a>.
+My professional experience has been in collaborating and becoming proficient in the most efficient technologies while being part of the UPS web development team for two and half years.
+
+Please consider viewing my <a href='https://www.linkedin.com/in/dennis-gurban/'>Curriculum Vitae</a> and <a href='https://www.linkedin.com/in/dennis-gurban/'>LinkedIn</a>.
 
 📫 How to reach me: dennisgurban44@gmail.com
 <!--
