@@ -1,4 +1,4 @@
-## Hello, my name is Dennis. 👋
+## Hello. 👋
 
 **I am pursuing an entry-level software developer position.** 🚀
 
