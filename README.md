@@ -6,15 +6,7 @@ My professional experience has been in collaborating and becoming proficient in<
 the most efficient technologies while being part of the UPS web development<br>
 team for two and half years.
 
-Please consider viewing my background: <a href=''>LinkedIn</a>.
+Please consider viewing my background: <a href='https://www.linkedin.com/in//'>LinkedIn</a>.
 
 📫 I will be happy to answer your inquiries at the email address that follows:<br>
-   
-<!--
-**gurbanoglu/gurbanoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on b
-- 📫 How to reach me: dennisgurban44@gmail.com
--->
+dennisgurban44@gmail.com
