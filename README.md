@@ -2,9 +2,9 @@
 
 **I am pursuing a software engineering role.** 🚀
 
-I have over two and a half years of experience collaborating with
+I have two and a half years of experience collaborating with the
 
-the UPS web development team, specializing in optimizing database
+UPS web development team, specializing in optimizing database
 
 queries, reducing defect density through automated unit and
 
