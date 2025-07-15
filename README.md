@@ -1,6 +1,6 @@
 ## Hello. 👋
 
-**I am pursuing an entry-level software developer position.** 🚀
+**I am pursuing a software engineering role.** 🚀
 
 I have over two and a half years of experience collaborating with
 
