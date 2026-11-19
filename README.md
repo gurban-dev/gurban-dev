@@ -6,7 +6,7 @@ Open to software development roles, freelance projects, or collaborative opportu
 
 Let’s connect if you’re seeking a developer who can deliver robust system architectures, optimize application performance, and create production-ready software.
 
-📧 Email: dennisgurban44@gmail.com
+📧 Email: dennisgurban1@gmail.com
 
 💻 GitHub: github.com/gurban-dev
 
